@@ -1,0 +1,11 @@
+<!-- Object Container -->
+
+2026-08-22
++ Menambahkan macro Object Container untuk mengidentifikasi dan mengelompokkan pola cutting serta desain secara otomatis.
+
+2026-08-25
+~ Memperbaiki proses Design agar group hasil processing tidak otomatis expanded pada Objects docker.
+~ Macro wizard kini berjalan modeless, sehingga dokumen CorelDRAW tetap bisa diakses saat form terbuka.
+
+2026-08-26
+~ Memperbaiki centering outline position pada objects properties.
